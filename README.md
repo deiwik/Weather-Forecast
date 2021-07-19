@@ -1,5 +1,5 @@
-
-*Weather Forecast* is a simple weather dashboard that retrieved data from Open Weather Map, a third-party APIs that allows developers to access their data and functionality by making requests with specific parameters to a URL. This app will run dynamically updated HTML and CSS powered by jQuery.
+Developed a web application which uses 3rd party APIs that displays 5-day weather forecast of a city along with the realtime weather conditions.
+Runs dynamically updated with HTML, CSS and Jquery library.
 
 
 
